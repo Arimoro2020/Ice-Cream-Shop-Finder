@@ -1,5 +1,7 @@
 # Ice-Cream-Shop-Finder
 
+![Website](https://img.shields.io/website?url=https%3A%2F%2Frococo-rugelach-2774ba.netlify.app%2F)
+
 User will be able to 
 1. View all Ice Cream shops
 2. View single shop and its details
