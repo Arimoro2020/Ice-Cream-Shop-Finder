@@ -1,10 +1,12 @@
-# Ice-Cream-Shop-Finder
+# Ice Cream Shop Finder
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Frococo-rugelach-2774ba.netlify.app%2F)
+[Visit the Ice Cream Shop Finder](https://rococo-rugelach-2774ba.netlify.app/)
 
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Frococo-rugelach-2774ba.netlify.app%2F)    
 User will be able to 
 1. View all Ice Cream shops
-2. View single shop and its details
+2. View a single shop and its details
 3. Like a shop
 4. Delete a shop
 6. Add a review
@@ -28,22 +30,7 @@ User will be able to
 | /shops            | POST           | {name:, location:, image:, favFlav:} | {id:, name:, image:, favFlav:}       |
 | /shops/:id         | PATCH          | {reviews:}                           | {id:,name:,image:,favFlav:,reviews:} |
 
-
-1. What was the hardest part of your project?  Why? 
-
-2. Did you have to restructure your project in any way?  How?
-
-3. How could you improve your project?
-
-4. What is something you would have done differently?
-
-5. What is the most exciting part of your project?
-
-6. What are you most proud of?
-
-7. What concepts made more sense for you after creating your project? 
-
-                        
+              
 
 <img src="./public/Home.png" alt="Home">
 <img src="./public/ShopDetail.png" alt="Shop Detail">
